@@ -1,4 +1,6 @@
-# Vue-JS-Quotes-Progress-Application
+# Vue JS Quotes Progress Application
+
+<div style="text-align:center;"><img src="screenshot.png"></div>
 
 > A Vue.js project
 
